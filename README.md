@@ -2,8 +2,6 @@
 
         mvn spring-boot:run
 
-### home
-http://localhost:8091
 
 ### h2- Database
 http://localhost:8091/h2-console  
